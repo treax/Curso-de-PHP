@@ -1,5 +1,3 @@
-<!-- Exercício do tópico 4 do curso de php na Iparos! -->
-
 
 <?php
 $sucesso = false;
